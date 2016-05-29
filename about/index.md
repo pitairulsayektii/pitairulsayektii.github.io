@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/pitairulsayektii/pitairulsayektii.io/master/as
 ## Bio
 * Nama          : Pita Irul Sayekti
 * TTL           : Sarigaluh, 10 Juni 1995 <br>
-* Kelas         : SI'A <br>
+* Kelas         : SIF'A <br>
 * Jurusan       : [Sistem Informasi](http://sif.uin-suska.ac.id/)<br>
 * Fakultas      : [Sains dan Teknologi](http://fst.uin-suska.ac.id/)<br>
 * Universitas   : [UIN Suska Riau](http://uin-suska.ac.id/)<br>
