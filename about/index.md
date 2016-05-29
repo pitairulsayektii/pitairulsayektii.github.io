@@ -4,7 +4,7 @@ title: About Me
 tags: [about]
 date: 2016-05-25
 ---
-<center>Pencari kepuasan akibat dari setitik rasa ingin tahu</center>
+<center>Pita Irul Sayekti</center>
 
 ## It's Me
 
