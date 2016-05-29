@@ -9,7 +9,7 @@ date: 2016-05-25
 ## It's Me
 
 {% capture images %}
-https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg
+https://raw.githubusercontent.com/pitairulsayektii/pitairulsayektii.io/master/assets/img/IMG_20151024_190349.jpg
 {% endcapture %}
 {% include gallery images=images caption="it's me" cols=2 %}
 
